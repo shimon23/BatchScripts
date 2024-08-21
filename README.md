@@ -11,7 +11,7 @@ The scripts in this repository are designed to:
 
 ## Scripts Included
 
-1. **copy_to_ftp.bat**  
+1. **latest_file_to_ftp.bat**  
    This script finds the most recent file in a specified folder and uploads it to a specified FTP server.
 
 2. **copy_file.bat**  
@@ -19,7 +19,7 @@ The scripts in this repository are designed to:
 
 ### Script Details
 
-#### copy_to_ftp.bat
+#### latest_file_to_ftp.bat
 
 This script automates the process of finding the newest file in a directory and uploading it to an FTP server. It’s particularly useful for automating file transfers for backups, reports, or any other regular uploads.
 
